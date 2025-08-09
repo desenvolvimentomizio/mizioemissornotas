@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Exceto o .gitignore
+!.gitignore
+
+# Exceto o executável que você quer versionar
+!MizioEmissorNotas.exe
